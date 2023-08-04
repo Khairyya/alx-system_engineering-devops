@@ -1,0 +1,5 @@
+://github.com/khairyya/alx-system_engineering-devops.git
+   cc0f091..82bf8f4  main -> main
+root@392f22e65722:/alx-system_engineering-devops/0x01-shell_permissions/git# git clone https://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@github.com/khairyya/alx-system_engineering-devops.git
+#!/bin/bash
+chown vincent:staff *
