@@ -1,0 +1,2 @@
+#!/bin/bash
+cp "A-Za-Z" "%-ZA-Mn -za-m"
