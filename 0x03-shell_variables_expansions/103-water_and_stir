@@ -1,0 +1,2 @@
+#!/bin/bash
+printf "%o\n" $(($#$(echo $Water | tr 'water' '02234') # $#$(echo) $STIR | tr 'stir,' '01234'))) | tr '01234567' 'bestchol'
